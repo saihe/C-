@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\bin\Debug\HalloWorld.pdb
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\obj\Debug\HalloWorld.exe
+c:\users\am\documents\visual studio 2015\Projects\HalloWorld\HalloWorld\obj\Debug\HalloWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\bin\Debug\multiarray.exe.config
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\bin\Debug\multiarray.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\bin\Debug\multiarray.pdb
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\obj\Debug\multiarray.csprojResolveAssemblyReference.cache
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\obj\Debug\multiarray.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\multiarray\obj\Debug\multiarray.pdb
