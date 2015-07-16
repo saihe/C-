@@ -17,27 +17,34 @@ namespace p2_5
             score["白木"] = 100;
             score["西"] = 10;
 
-            string value = "不可";
-            foreach (int key in score.Keys)
+            string val = "不可";
+            foreach (var key in score.Keys)
             {
-                switch (key)
-                {
-                    case key >= 80:
-                        value = "優";
-                        break;
-                    case key >= 70:
-                        value = "良";
-                        break;
-                    case key >= 60:
-                        value = "可";
-                        break;
-                    default
-                        {
+                int jadge = score[key] / 10;
+                    switch (jadge)
+                    {
+                        case 8:
+                        case 9:
+                        case 10:
+                            val = "優";
+                            break;
+                        case 7:
+                            val = "良";
+                            break;
+                        case 6:
+                            val = "可";
+                            break;
+                        default:
+                        val = "不可";
 
-                        }
-                }
-                Console.WriteLine("氏名：{0}\t点数：{1}\t評価：{2}", key, string.Format("{0 , 3}", score[key]) , value) ;
+                        break;
+                            {
 
+                            }
+                    }
+
+                Console.WriteLine("氏名：{0}\t点数：{1}\t評価：{2}", key,  score[key] , val) ;
+                
             }
         }
     }

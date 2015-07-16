@@ -1,0 +1,6 @@
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\bin\Debug\book.exe.config
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\bin\Debug\book.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\bin\Debug\book.pdb
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\obj\Debug\book.csprojResolveAssemblyReference.cache
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\obj\Debug\book.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\book\obj\Debug\book.pdb
