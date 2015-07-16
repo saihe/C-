@@ -1,0 +1,4 @@
+C:\xampp\htdocs\C-\Projects\helloMono\p19\bin\Debug\p19.exe
+C:\xampp\htdocs\C-\Projects\helloMono\p19\bin\Debug\p19.pdb
+C:\xampp\htdocs\C-\Projects\helloMono\p19\obj\x86\Debug\p19.exe
+C:\xampp\htdocs\C-\Projects\helloMono\p19\obj\x86\Debug\p19.pdb
