@@ -1,0 +1,6 @@
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\bin\Debug\p3-7.exe.config
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\bin\Debug\p3-7.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\bin\Debug\p3-7.pdb
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\obj\Debug\p3-7.csprojResolveAssemblyReference.cache
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\obj\Debug\p3-7.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-7\obj\Debug\p3-7.pdb
