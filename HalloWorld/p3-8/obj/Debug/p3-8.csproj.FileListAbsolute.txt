@@ -3,3 +3,9 @@ C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-8\bin\Debug\p3-8
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-8\bin\Debug\p3-8.pdb
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-8\obj\Debug\p3-8.exe
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-8\obj\Debug\p3-8.pdb
+C:\xampp\htdocs\C-\HalloWorld\p3-8\bin\Debug\p3-8.exe.config
+C:\xampp\htdocs\C-\HalloWorld\p3-8\obj\Debug\p3-8.exe
+C:\xampp\htdocs\C-\HalloWorld\p3-8\obj\Debug\p3-8.pdb
+C:\xampp\htdocs\C-\HalloWorld\p3-8\bin\Debug\p3-8.exe
+C:\xampp\htdocs\C-\HalloWorld\p3-8\bin\Debug\p3-8.pdb
+C:\xampp\htdocs\C-\HalloWorld\p3-8\obj\Debug\p3-8.csprojResolveAssemblyReference.cache

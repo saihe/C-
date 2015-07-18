@@ -16,7 +16,6 @@ namespace p3_7
             {
                 //ナビ
                 string s = Console.ReadLine();
-                rm.total++;
                 string msg = "";
                 if (s == "h")
                 {
@@ -35,16 +34,23 @@ namespace p3_7
                     foreach(string key in rm.perc.Keys)
                     {
                         msg += key + "：" + rm.perc[key].ToString("F2") + "%\n";
-                        msg += "カウントCount" + rm.his.Count;
                     }
+                    msg += "total:" + (rm.sum["1合計"] * 100) / rm.his.Count + "\n";
+                    msg += "total:" + (rm.sum["2合計"] * 100) / rm.total + "\n";
+                    msg += "total:" + (rm.sum["3合計"] * 100) / rm.total + "\n";
+                    msg += "total:" + (rm.sum["4合計"] * 100) / rm.total + "\n";
+                    msg += "total:" + (rm.sum["5合計"] * 100) / rm.total + "\n";
+                    msg += "total:" + (rm.sum["6合計"] * 100) / rm.total + "\n";
 
                 }
                 else if (s == "")
                 {
                     msg = "数字：" +  rm.getNum();
+                    rm.total++;
+
                 }
                 Console.WriteLine(msg);
-                
+
 
             }
         }
