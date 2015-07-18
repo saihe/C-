@@ -1,0 +1,6 @@
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\bin\Debug\p3-9.exe.config
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\bin\Debug\p3-9.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\bin\Debug\p3-9.pdb
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\obj\Debug\p3-9.exe
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\obj\Debug\p3-9.pdb
+C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p3-9\obj\Debug\p3-10.csprojResolveAssemblyReference.cache
