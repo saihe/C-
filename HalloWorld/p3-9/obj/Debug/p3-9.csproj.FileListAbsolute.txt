@@ -1,0 +1,6 @@
+C:\xampp\htdocs\C-\HalloWorld\p3-9\bin\Debug\p3-9.exe.config
+C:\xampp\htdocs\C-\HalloWorld\p3-9\bin\Debug\p3-9.exe
+C:\xampp\htdocs\C-\HalloWorld\p3-9\bin\Debug\p3-9.pdb
+C:\xampp\htdocs\C-\HalloWorld\p3-9\obj\Debug\p3-9.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C-\HalloWorld\p3-9\obj\Debug\p3-9.exe
+C:\xampp\htdocs\C-\HalloWorld\p3-9\obj\Debug\p3-9.pdb

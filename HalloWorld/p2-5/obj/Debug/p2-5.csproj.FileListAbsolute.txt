@@ -4,3 +4,9 @@ C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-5\bin\Debug\p2-5
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-5\obj\Debug\p2-5.exe
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-5\obj\Debug\p2-5.pdb
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-5\obj\Debug\p2-5.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C-\HalloWorld\p2-5\bin\Debug\p2-5.exe.config
+C:\xampp\htdocs\C-\HalloWorld\p2-5\bin\Debug\p2-5.exe
+C:\xampp\htdocs\C-\HalloWorld\p2-5\bin\Debug\p2-5.pdb
+C:\xampp\htdocs\C-\HalloWorld\p2-5\obj\Debug\p2-5.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C-\HalloWorld\p2-5\obj\Debug\p2-5.exe
+C:\xampp\htdocs\C-\HalloWorld\p2-5\obj\Debug\p2-5.pdb

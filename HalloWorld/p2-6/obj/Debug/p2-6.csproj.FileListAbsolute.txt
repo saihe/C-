@@ -3,3 +3,8 @@ C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-6\bin\Debug\p2-6
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-6\bin\Debug\p2-6.pdb
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-6\obj\Debug\p2-6.exe
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\p2-6\obj\Debug\p2-6.pdb
+C:\xampp\htdocs\C-\HalloWorld\p2-6\bin\Debug\p2-6.exe.config
+C:\xampp\htdocs\C-\HalloWorld\p2-6\bin\Debug\p2-6.exe
+C:\xampp\htdocs\C-\HalloWorld\p2-6\bin\Debug\p2-6.pdb
+C:\xampp\htdocs\C-\HalloWorld\p2-6\obj\Debug\p2-6.exe
+C:\xampp\htdocs\C-\HalloWorld\p2-6\obj\Debug\p2-6.pdb

@@ -3,3 +3,9 @@ c:\users\am\documents\visual studio 2015\Projects\HalloWorld\ht\bin\Debug\ht.exe
 c:\users\am\documents\visual studio 2015\Projects\HalloWorld\ht\bin\Debug\ht.pdb
 c:\users\am\documents\visual studio 2015\Projects\HalloWorld\ht\obj\Debug\ht.exe
 c:\users\am\documents\visual studio 2015\Projects\HalloWorld\ht\obj\Debug\ht.pdb
+C:\xampp\htdocs\C-\HalloWorld\ht\bin\Debug\ht.exe.config
+C:\xampp\htdocs\C-\HalloWorld\ht\bin\Debug\ht.exe
+C:\xampp\htdocs\C-\HalloWorld\ht\bin\Debug\ht.pdb
+C:\xampp\htdocs\C-\HalloWorld\ht\obj\Debug\ht.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C-\HalloWorld\ht\obj\Debug\ht.exe
+C:\xampp\htdocs\C-\HalloWorld\ht\obj\Debug\ht.pdb

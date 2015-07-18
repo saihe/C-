@@ -3,3 +3,9 @@ C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\jugarray\bin\Debug\
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\jugarray\bin\Debug\jugarray.pdb
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\jugarray\obj\Debug\jugarray.exe
 C:\Users\am\Documents\Visual Studio 2015\Projects\HalloWorld\jugarray\obj\Debug\jugarray.pdb
+C:\xampp\htdocs\C-\HalloWorld\jugarray\bin\Debug\jugarray.exe.config
+C:\xampp\htdocs\C-\HalloWorld\jugarray\bin\Debug\jugarray.exe
+C:\xampp\htdocs\C-\HalloWorld\jugarray\bin\Debug\jugarray.pdb
+C:\xampp\htdocs\C-\HalloWorld\jugarray\obj\Debug\jugarray.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\C-\HalloWorld\jugarray\obj\Debug\jugarray.exe
+C:\xampp\htdocs\C-\HalloWorld\jugarray\obj\Debug\jugarray.pdb

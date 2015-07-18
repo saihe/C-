@@ -1,0 +1,5 @@
+C:\xampp\htdocs\C-\HalloWorld\keisyou\bin\Debug\keisyou.exe.config
+C:\xampp\htdocs\C-\HalloWorld\keisyou\bin\Debug\keisyou.exe
+C:\xampp\htdocs\C-\HalloWorld\keisyou\bin\Debug\keisyou.pdb
+C:\xampp\htdocs\C-\HalloWorld\keisyou\obj\Debug\keisyou.exe
+C:\xampp\htdocs\C-\HalloWorld\keisyou\obj\Debug\keisyou.pdb
