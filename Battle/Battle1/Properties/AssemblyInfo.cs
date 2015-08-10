@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("Battle")]
+[assembly: AssemblyTitle("Battle1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Battle")]
+[assembly: AssemblyProduct("Battle1")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 次の GUID は、このプロジェクトが COM に公開される場合の、typelib の ID です
-[assembly: Guid("0e705989-3a8a-4cea-acd7-83d96190bd62")]
+[assembly: Guid("6f2d36fa-aa99-49e5-8402-1e142e6c9f0f")]
 
 // アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
 //
